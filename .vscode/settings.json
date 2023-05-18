@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"iostream": "cpp",
+		"string": "cpp"
+	},
+	"cmake.sourceDirectory": "G:/VS_Code_2/Cmake_Learn/0003_Binance/source",
+	"C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}
