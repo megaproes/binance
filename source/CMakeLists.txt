@@ -12,7 +12,7 @@ link_directories(${CMAKE_SOURCE_DIR}/../lib/openssl)
 
 add_executable(Binance main.cpp)
 
-target_link_libraries(Binance cpr libssl)
+target_link_libraries(Binance cpr libssl libcrypto)
 
 
 
