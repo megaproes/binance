@@ -1,0 +1,3 @@
+G:/VS_Code_2/Cmake_Learn/0003_Binance/build/CMakeFiles/Binance.dir
+G:/VS_Code_2/Cmake_Learn/0003_Binance/build/CMakeFiles/ALL_BUILD.dir
+G:/VS_Code_2/Cmake_Learn/0003_Binance/build/CMakeFiles/ZERO_CHECK.dir

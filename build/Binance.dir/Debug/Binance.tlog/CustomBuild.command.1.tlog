@@ -1,0 +1,10 @@
+^G:\VS_CODE_2\CMAKE_LEARN\0003_BINANCE\SOURCE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SG:/VS_Code_2/Cmake_Learn/0003_Binance/source -BG:/VS_Code_2/Cmake_Learn/0003_Binance/build --check-stamp-file G:/VS_Code_2/Cmake_Learn/0003_Binance/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
